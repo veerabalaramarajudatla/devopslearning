@@ -1,1 +1,1 @@
-Git
+Practising the Git Commands
